@@ -44,7 +44,7 @@
 The project we built for the Final Project is based on an app to book an appointment to test ride a Harley-Davidson motorcycle. 
 
 ## 🚀 Frontend App <a name="frontend"></a>
-- [Click here to navigate to the Frontend ](https://github.com/Salimer/Final-Capstone-Front-End)
+- [Click here to navigate to the Frontend ](https://github.com/MarcoDiaz2000/Front-End-Harley-Davidson)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
