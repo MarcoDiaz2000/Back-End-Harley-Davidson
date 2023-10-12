@@ -1,4 +1,3 @@
-# Final group capstone - Book an Appointment
 
 ![Harley](https://github.com/MarcoDiaz2000/Back-End-Harley-Davidson/assets/125866339/d6db4cde-3a05-49aa-b21b-002c4893adb0)
 
